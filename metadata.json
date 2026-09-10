@@ -1,0 +1,6 @@
+{
+  "name": "Clinic Appointment Assistant",
+  "description": "AI assistant for Harbor Dental Care managing appointment logistics, scheduling, and clinic information with persistent booking data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
